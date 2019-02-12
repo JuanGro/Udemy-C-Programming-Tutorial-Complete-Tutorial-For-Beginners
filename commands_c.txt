@@ -1,0 +1,9 @@
+// To compile it
+gcc hello.c
+// To execute it
+./a.out
+
+// To name the executable
+gcc -o hello hello.c
+// To execute it
+./hello
